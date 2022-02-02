@@ -43,14 +43,15 @@ Wen das Alter im Rahmen liegt und der bool true zurück gibt=
 
             Console.WriteLine("Geben sie ein maximal Alter an");
             int maxAlter = Convert.ToInt32(Console.ReadLine());
+            int temp = maxAlter;
 
             int alterSpanne = AlterSpanne(maxAlter, minAlter);
             int[] alterRahmen = new int[alterSpanne];
 
             for (int i = 0; i < alterRahmen.Length; i++)
             {
-                alterRahmen[i] = maxAlter;
-                maxAlter--;
+                alterRahmen[i] = temp;
+                temp--;
             }
 
             Console.WriteLine("Wie alt ist die Person");
