@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\bin\Debug\netcoreapp3.1\MusterlösungÜbung.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\bin\Debug\netcoreapp3.1\MusterlösungÜbung.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\bin\Debug\netcoreapp3.1\MusterlösungÜbung.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\bin\Debug\netcoreapp3.1\MusterlösungÜbung.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\bin\Debug\netcoreapp3.1\MusterlösungÜbung.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\bin\Debug\netcoreapp3.1\MusterlösungÜbung.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\obj\Debug\netcoreapp3.1\MusterlösungÜbung.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\obj\Debug\netcoreapp3.1\MusterlösungÜbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\obj\Debug\netcoreapp3.1\MusterlösungÜbung.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\obj\Debug\netcoreapp3.1\MusterlösungÜbung.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\obj\Debug\netcoreapp3.1\MusterlösungÜbung.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\obj\Debug\netcoreapp3.1\MusterlösungÜbung.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\obj\Debug\netcoreapp3.1\MusterlösungÜbung.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\MusterlösungÜbung\MusterlösungÜbung\obj\Debug\netcoreapp3.1\MusterlösungÜbung.genruntimeconfig.cache
